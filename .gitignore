@@ -1,0 +1,14 @@
+
+venv
+
+.idea
+
+__pycache__
+
+StoreParser/__pycache__
+
+StoreParser/spiders/__pycache__
+
+searched.csv
+
+config.py

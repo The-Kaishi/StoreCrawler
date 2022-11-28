@@ -1,0 +1,1 @@
+Store crawler with scrapy
